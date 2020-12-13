@@ -1,7 +1,7 @@
-03594c8a0bb11f1051ae1af9a23535f4 *DESCRIPTION
+1b1db23b38394a0aac52a6f6f8f03444 *DESCRIPTION
 93f110026220b05597cb3940ecbfe868 *LICENSE
 5b2f2c6434205793ec20fbe7baf512a9 *NAMESPACE
-11eb211d93be53f3f5921a12550ed1be *NEWS.md
+bafe0601cc5498da94d3d18c8ed6cee6 *NEWS.md
 4cc1335cbea7bb5e307e5689ce21e72f *R/aaa.R
 a521ceb1bbdb803feb7404c45f8a245b *R/dr_here.R
 9df5560100bc1ec088e8078a61af6681 *R/here.R
@@ -17,10 +17,10 @@ a06a0210251465a86fb970018292304d *inst/demo-project/data/penguins.csv
 5d0a38962f43a5b84b2d406559bd3356 *inst/demo-project/prepare/penguins.R
 95519daa5c358e5917141af423fb51f6 *inst/doc/here.R
 84b9dd71253d5d3fb7974588ba4233fd *inst/doc/here.Rmd
-c6a364640ba54d3f7960c9ae49365f60 *inst/doc/here.html
+df8488f2a1be229413162d31d5f5a6c4 *inst/doc/here.html
 54359b28b572320694303359d7119c99 *inst/doc/rmarkdown.R
 255dc679ef919db654e7aced1a451f5b *inst/doc/rmarkdown.Rmd
-cdd6a3fa259ec2e2ed65433141925f6f *inst/doc/rmarkdown.html
+ce8e71fd52949054fa029b0aef3b9718 *inst/doc/rmarkdown.html
 350274d28873b0a5abd94476fc487f59 *man/dr_here.Rd
 cb1e46f469cfbbbde29c8b5113e1d789 *man/figures/lifecycle-archived.svg
 c0d2e5a54f1fa4ff02bf9533079dd1f7 *man/figures/lifecycle-defunct.svg
@@ -37,11 +37,12 @@ f226f75f898be3d2771df39616653b0b *man/set_here.Rd
 e6a18e8e7670512834be1f8b4403e05f *tests/testthat.R
 9d93a86c4f7238c660106e55db4375e5 *tests/testthat/_snaps/dr_here.md
 eff2e1be7e04f87e61d3df3c9e281a9d *tests/testthat/_snaps/i_am.md
+923b5820fbbd090b63de0cc21afcf7ad *tests/testthat/helper-expect.R
 ef7d5b1e0204b277a9f3301454d00715 *tests/testthat/helper-local.R
 64f7ae5ce41985b8793165a23a146dc6 *tests/testthat/setup.R
 131d197e51f962a26b368057bb396045 *tests/testthat/test-dr_here.R
 be418bf164890e06ce1bf7247b36d6ba *tests/testthat/test-here.R
-f012bbf699cd74069cafc21716b89e36 *tests/testthat/test-i_am.R
+cb933152859f22e42605fc9807394abb *tests/testthat/test-i_am.R
 c129dbeafb921a052217dd91a28813b4 *tests/testthat/test-set_here.R
 84b9dd71253d5d3fb7974588ba4233fd *vignettes/here.Rmd
 255dc679ef919db654e7aced1a451f5b *vignettes/rmarkdown.Rmd
